@@ -133,8 +133,6 @@ Used primarily for sorting furniture data which is read through stdin.
 
 _HELP="--help"
 _INVALID_ARG="Invalid argument"
-_PIPE="cat test.txt | testPipe.sh"
-_REDIRECT="./shelfsorter.sh < sortiment.txt"
 
 #input redirect
 _INPUT="/dev/stdin"
